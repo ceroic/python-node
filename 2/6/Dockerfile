@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:2
 MAINTAINER Ceroic <ops@ceroic.com>
 
 # Node instructions are copy/pasted from the official Node image.
